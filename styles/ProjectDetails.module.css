@@ -1,0 +1,26 @@
+.projectDetailsPage {
+    padding: 0 15px; /* Ajouter des marges sur les côtés de l'écran */
+  }
+  
+  .projectTitle {
+    color: #0984e3; /* Couleur bleue pour le titre */
+    margin-bottom: 20px; /* Espace sous le titre */
+  }
+  
+  .projectDescription {
+    font-size: 1.1em; /* Taille du texte de description */
+    margin-bottom: 20px; /* Espace sous la description */
+  }
+  
+  .technologiesList {
+    list-style-type: none; /* Retirer les puces des listes */
+    padding: 0;
+  }
+  
+  .technologyItem {
+    background: #f8f9fa;
+    margin-bottom: 5px;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  

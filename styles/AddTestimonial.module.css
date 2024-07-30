@@ -1,0 +1,32 @@
+.addTestimonialPage {
+    max-width: 600px;
+    margin: 0 auto; 
+    padding: 0 15px; 
+  }
+  .addTestimonialPage h1  {
+    color: #0984e3; 
+  }
+  
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .btn-primary {
+    background-color: #00b894;
+    border-color: #00b894;
+  }
+  
+  .btn-primary:hover {
+    background-color: #019a76;
+    border-color: #019a76;
+  }
+  
+  .is-invalid {
+    border-color: #e74c3c;
+  }
+  
+  .invalid-feedback {
+    color: #e74c3c; 
+  }
+  

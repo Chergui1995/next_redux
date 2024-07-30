@@ -1,0 +1,33 @@
+.projectsPage {
+    padding: 0 15px; 
+  }
+  
+  .projectCard {
+    margin-bottom: 20px;
+    transition: transform 0.2s; 
+  }
+  
+  .projectCard:hover {
+    transform: translateY(-5px); 
+  }
+  
+  .cardTitle {
+    font-size: 1.5em;
+  }
+  
+  .cardText {
+    font-size: 1.1em; 
+  }
+  
+  .technologiesList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .technologyItem {
+    background: #f8f9fa;
+    margin-bottom: 5px;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  

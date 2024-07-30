@@ -1,0 +1,16 @@
+.testimonialsPage {
+    padding: 0 15px; 
+  }
+  
+  .h1 {
+    color: #0984e3; 
+  }
+  
+  .listGroupItem {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 15px;
+  }
+  
